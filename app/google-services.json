@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356994636453",
+    "project_id": "eglise-mr",
+    "storage_bucket": "eglise-mr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356994636453:android:9b2231303f38a1b39b0b4c",
+        "android_client_info": {
+          "package_name": "com.eglisemr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356994636453-28u8qfib803habgr31pni7b6fu0ro9ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdzhV5mUd-YZkPdW4sfsNoeDjMnY_9u-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356994636453-28u8qfib803habgr31pni7b6fu0ro9ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
